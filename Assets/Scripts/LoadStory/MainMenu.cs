@@ -9,7 +9,7 @@ public class MainMenu : MonoBehaviour
     private void Awake()
     {
         Time.timeScale = 1; //..Time works again
-        Screen.orientation = ScreenOrientation.LandscapeRight;                //--Force screen orientation
+        Screen.orientation = ScreenOrientation.LandscapeLeft;                //--Force screen orientation
     }
 
     //--Load next scene

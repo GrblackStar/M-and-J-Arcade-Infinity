@@ -6,6 +6,6 @@ public class ScreenLand : MonoBehaviour
 {
     private void Awake()
     {
-        Screen.orientation = ScreenOrientation.LandscapeRight;                //--Force screen orientation
+        Screen.orientation = ScreenOrientation.LandscapeLeft;                //--Force screen orientation
     }
 }

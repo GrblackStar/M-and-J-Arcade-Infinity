@@ -8,7 +8,7 @@ public class GameController_Hub : MonoBehaviour
 
     private void Awake()
     {
-        Screen.orientation = ScreenOrientation.LandscapeRight;                  //--Force screen oriantation
+        Screen.orientation = ScreenOrientation.LandscapeLeft;                  //--Force screen oriantation
     }
 
 
